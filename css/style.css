@@ -1,0 +1,17 @@
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head h1 span{
+    color: rgb(39, 0, 182)
+}
+.head .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
+li {
+    margin-left: 2em;
+}
